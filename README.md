@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayana</h1>
-<h3 align="center">Requirements Analyst / Projects / Systems / Tests | Product Owner | Software Engineering | Project management</h3>
+<h3 align="center">Systems Analyst | Product Owner | Requirements and Software Engineering | Project Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgportnoi&label=Profile%20views&color=0e9bb4&style=plastic" alt="mgportnoi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgportnoi" alt="mgportnoi" /></a> </p>
 
-- 🌱 I’m currently learning **front-end development**
+- 🌱 I’m currently doing **MBA  Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mgportnoi](https://github.com/mgportnoi)
 
