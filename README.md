@@ -15,6 +15,20 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mgportnoi](https://www.linkedin.com/in/mgportnoi)
 
+Analista de Sistemas com sólida experiência em engenharia de requisitos, engenharia de software e gestão de projetos, atualmente cursando pós-graduação em Engenharia de Software. Atuo com foco em identificar, documentar e gerenciar requisitos funcionais e não funcionais, priorizando soluções com base no valor de negócios e na viabilidade técnica. Possuo boa experiência colaborando com equipes multifuncionais, utilizando metodologias ágeis (Scrum, Kanban, XP) e boas práticas de gerenciamento de projetos (PMBOK, CMMI).
+
+Minha trajetória inclui diversas atuações como Analista de Requisitos, onde realizo desde a coleta de necessidades dos stakeholders até a validação de soluções implementadas, garantindo a entrega de valor ao negócio. No papel de Product Owner, sou responsável pela criação e manutenção do backlog, priorizando features e melhorias com base em feedback de usuários e análise de mercado.
+
+Adquiri forte expertise em gestão de projetos, gerenciando times técnicos e conduzindo projetos de desenvolvimento de software em todas as fases do ciclo de vida (SDLC), garantindo cumprimento de prazos e escopo. Com habilidades analíticas, realizo a análise de viabilidade técnica, orçamentária e de cronograma, aplicando estratégias para mitigação de riscos e resolução de problemas.
+
+Nos testes de software, desenvolvo e executo planos de teste para garantir que os requisitos definidos sejam devidamente implementados, assegurando a qualidade do software antes da entrega ao cliente. Tenho familiaridade com testes automatizados e manuais, garantindo a cobertura de cenários críticos.
+
+Em engenharia de software, além da definição e arquitetura de soluções, contribuo com a documentação detalhada dos processos de desenvolvimento e especificação técnica, além de implementar boas práticas de controle de versionamento e entrega contínua (CI/CD). Utilizo tecnologias de ponta para desenvolvimento front-end e back-end, atuando com linguagens como Java, C#, Node.js, Javascript e frameworks modernos como React.js para soluções web.
+
+Na área de suporte técnico, ofereci suporte de nível 1 e 2 para resolução de problemas de infraestrutura, gerenciamento de ativos de rede e manutenção de sistemas corporativos, garantindo a continuidade do negócio. Participei da configuração de ambientes de rede complexos, incluindo Active Directory e Office 365, além de monitoramento e backup de dados.
+
+Minhas experiências permitem uma visão completa do ciclo de vida de projetos, desde a concepção até a implementação e manutenção, sempre visando a entrega de alto valor para os stakeholders.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mgportnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mgportnoi" height="30" width="40" /></a>
