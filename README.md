@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgportnoi" alt="mgportnoi" /></a> </p>
 
-- 🌱 I’m currently doing **MBA  Software Engineering**
+- 🌱 I’m currently doing **Master Degree in Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mgportnoi](https://github.com/mgportnoi)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mgportnoi](https://www.linkedin.com/in/mgportnoi)
 
-Analista de Sistemas com sólida experiência em engenharia de requisitos, engenharia de software e gestão de projetos, atualmente cursando pós-graduação em Engenharia de Software. Atuo com foco em identificar, documentar e gerenciar requisitos funcionais e não funcionais, priorizando soluções com base no valor de negócios e na viabilidade técnica. Possuo boa experiência colaborando com equipes multifuncionais, utilizando metodologias ágeis (Scrum, Kanban, XP) e boas práticas de gerenciamento de projetos (PMBOK, CMMI).
+Analista de Sistemas com sólida experiência em engenharia de requisitos, engenharia de software e gestão de projetos. Atuo com foco em identificar, documentar e gerenciar requisitos funcionais e não funcionais, priorizando soluções com base no valor de negócios e na viabilidade técnica. Possuo boa experiência colaborando com equipes multifuncionais, utilizando metodologias ágeis (Scrum, Kanban, XP) e boas práticas de gerenciamento de projetos (PMBOK, CMMI).
 
 Minha trajetória inclui diversas atuações como Analista de Requisitos, onde realizo desde a coleta de necessidades dos stakeholders até a validação de soluções implementadas, garantindo a entrega de valor ao negócio. No papel de Product Owner, sou responsável pela criação e manutenção do backlog, priorizando features e melhorias com base em feedback de usuários e análise de mercado.
 
