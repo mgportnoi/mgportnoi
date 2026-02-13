@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayana</h1>
-<h3 align="center">Systems Analyst | Product Owner | Requirements and Software Engineering | Project Management</h3>
+<h3 align="center">Systems Analyst | PO | QA | Requirements and Software Engineering | Project Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgportnoi&label=Profile%20views&color=0e9bb4&style=plastic" alt="mgportnoi" /> </p>
 
